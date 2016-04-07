@@ -44,6 +44,7 @@ h1, h3 {
 
 pre code {
   color: #ccc;
+    background-color: black;
   font-size: 140%;
 }
 
@@ -62,6 +63,7 @@ pre code {
 
 code {
   background-color: black;
+    color: white;
 }
 
 em {
