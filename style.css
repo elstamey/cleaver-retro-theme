@@ -15,7 +15,7 @@ pre code {
 }
 
 .slide {
-  background-color: black;
+  background-color: white;
 }
 
 .keyword {
@@ -28,7 +28,7 @@ pre code {
 }
 
 code {
-  background-color: inherit;
+  background-color: black;
 }
 
 em {
