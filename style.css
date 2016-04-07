@@ -32,13 +32,24 @@
 
 body {
   background-color: white;
+    font-family: "Gotham-Round", sans-serif;
+    font-size: 36px;
+    font-weight: 300;
 }
 
 h1, h3 {
-  font-family: "Gotham-Round", Impact, sans-serif;
+  font-family: "Gotham-Bold", Impact, sans-serif;
   font-weight: bold;
   font-style: italic;
   color: #E42269;
+}
+
+h1 {
+    font-size: 2.11em;
+}
+
+h3 {
+    font-size: 1.8em;
 }
 
 pre code {
