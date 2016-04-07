@@ -1,12 +1,12 @@
 body {
-  background-color: #222;
-  color: #eee;
+  background-color: white;
 }
 
 h1, h3 {
   font-family: Impact;
   font-weight: bold;
   font-style: italic;
+  color: #FF5E99;
 }
 
 pre code {
@@ -15,7 +15,7 @@ pre code {
 }
 
 .slide {
-  background-color: inherit;
+  background-color: black;
 }
 
 .keyword {
